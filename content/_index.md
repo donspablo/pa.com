@@ -1,5 +1,5 @@
 ---
-title: 'pa.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'pa.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 pa.com is under construction."
 ---
 
